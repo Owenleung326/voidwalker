@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2bd5233faad9441a0ccb133549e443, type: 3}
+  m_Name: NPCInventory
+  m_EditorClassIdentifier: 
+  Container:
+  - item: {fileID: 11400000, guid: 79a5f5c24a33170479622390051a56fe, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: a6f8a1145c53e1c47b3fb0398f457fbc, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 3225683694e06c04db058212d10147b1, type: 2}
+    amount: 1
